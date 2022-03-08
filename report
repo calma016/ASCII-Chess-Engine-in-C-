@@ -1,0 +1,36 @@
+Features
+---------
+✅ Finish implementing the rules for each piece
+✅ Create check and checkmate algorithm
+❌ Check if the king is able to castle
+✅ En passent moves
+✅ If pawn reaches the end of the board it can turn into a queen
+❌ Implement networking stack
+    -Create Movement function to create to reroute functions based on user input
+    -
+❌ AI Project ?
+
+
+Bugs
+-----
+✅ I need  to fix error:
+./bitMap.hpp:6:11: error: redefinition of 'bitMap'
+    class bitMap{
+
+Refactor
+--------
+❌ Finish adding checks for horse and pawn and black pieces
+
+
+
+
+Chess Pieces
+-------------
+u265F = PAWN
+u265c = TOWER
+u265d = BISHOP
+u265e = HORSE
+u265b = queen
+u265a = KING 
+
+
